@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tianhao Chen (Henry)</h1>
-<h3 align="center">Currently a CS graduate Student at University of Illinois Urbana-Chanpaign. A passionate software developer.</h3>
+<h3 align="center">Currently a CS graduate Student at the University of Illinois Urbana-Chanpaign. A passionate software developer.</h3>
 
-- 🔭 I've used to working on [Full-Stack online e-commerce Applications using React/Redux, Node.js, HTML/CSS.](https://loquacious-sunburst-f65d80.netlify.app/)
+- 🔭 I've worked on a **Full-Stack online e-commerce Application using React/Redux, Node.js, HTML/CSS.** [Demo-TcClothing](https://loquacious-sunburst-f65d80.netlify.app/)
 
 - 🌱 I’m currently learning **CUDA, Cloud Computing Applications.**
 
 - 💬 Ask me about **java, react, python, etc.**
 
-- 📫 How to reach me **cthaohenry4@gmail.com**
+- 📫 How to contact me ✉️ [cthaohenry4\@gmail.com](mailto:cthaohenry4@gmail.com?subject=Test)
 
-- ⚡ Fun fact **I think I am an insane coffee lover**
+- ⚡ **I think I am an insane coffee lover 🤓.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
