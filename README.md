@@ -3,9 +3,9 @@
 
 - 🔭 I've worked on a **Full-Stack online e-commerce Application using React/Redux, Node.js, HTML/CSS.** [Demo-TcClothing](https://loquacious-sunburst-f65d80.netlify.app/)
 
-- 🌱 I’m currently learning **CUDA, Cloud Computing Applications.**
+- 🌱 I’m currently learning **Web programming, Cloud Computing Applications.**
 
-- 💬 Ask me about **java, react, python, etc.**
+- 💬 Ask me about **Java, JavaScript, React, Python, etc.**
 
 - 📫 How to contact me ✉️ [cthaohenry4\@gmail.com](mailto:cthaohenry4@gmail.com?subject=Test)
 
