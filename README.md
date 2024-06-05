@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tianhao Chen (Henry)</h1>
-<h3 align="center">Currently a graduate student in the Computer Science program at the University of Illinois Urbana-Chanpaign. A passionate software developer.</h3>
+<h3 align="center">I'm currently a graduate student in the Computer Science program at the University of Illinois Urbana-Chanpaign. A passionate software developer.</h3>
 
 - 🔭 I've worked on a **Full-Stack online e-commerce Application using React/Redux, Node.js, HTML/CSS.** [Demo-TcClothing](https://loquacious-sunburst-f65d80.netlify.app/)
 
