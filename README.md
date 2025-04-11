@@ -10,8 +10,8 @@
   - Some Data Visualization and Analytics projects [COVID19 Analysis](https://ifonlyc.github.io/projects/is-445-final-project)
   - More...
 - 📫 How to contact me ✉️ [cthaohenry4\@gmail.com](mailto:cthaohenry4@gmail.com?subject=Test)
-- ⚡ ** ☕️ coffee lover 🤓.**
-
+- ⚡ ☕️ **Coffee lover** 🤓
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tianhao-chen-henry" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="tianhao-chen-henry" /></a>
