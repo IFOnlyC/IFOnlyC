@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tianhao Chen (Henry)</h1>
 <h3 align="center">A passionate software developer.</h3>
 
-- 🔭 I've worked on a **Full-Stack online e-commerce Application using React/Redux, Node.js, HTML/CSS.** [Portofolio-TcClothing](https://loquacious-sunburst-f65d80.netlify.app/)
-- 🌱 I’m currently a **graduate student** in the **Computer Science** program at the **University of Illinois Urbana-Chanpaign**.
+- 🎓 I graduated from the **Master of Computer Science** program at the **University of Illinois Urbana-Champaign**, building on my prior Master's degree in **Information Management**.
+- 🔭 I've worked on multiple projects, e.g.,
+  - The Backend of an Online Store using Java, Spring Boot, PostgreSQL, MySQL, AWS
+  - A Full-Stack Online E-Commerce Application using React/Redux, Node.js, HTML/CSS. [TcClothing](https://loquacious-sunburst-f65d80.netlify.app/)
+  - A Mobile App for City Weather using Java, Android Studio, also leveraged Gemini LLM to suggest weather-related questions
+  - A Full-Stack social platform for Pets (An Instagram like social platform designed for Pets), using JavaScript, React, REST APIs, MongoDB, Express, Node.js, AWS
+  - Some Data Visualization and Analytics projects [COVID19 Analysis](https://ifonlyc.github.io/projects/is-445-final-project)
+  - More...
 - 📫 How to contact me ✉️ [cthaohenry4\@gmail.com](mailto:cthaohenry4@gmail.com?subject=Test)
-- ⚡ **I think I am an insane coffee lover 🤓.**
+- ⚡ ** ☕️ coffee lover 🤓.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
